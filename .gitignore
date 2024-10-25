@@ -22,3 +22,7 @@ HELP.md
 
 # macOS specific files
 .DS_Store
+
+.vscode/
+
+mongo_data/
