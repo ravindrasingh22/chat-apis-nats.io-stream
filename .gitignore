@@ -1,0 +1,24 @@
+# IntelliJ IDEA files
+.idea/
+*.iml
+*.iws
+.DS_Store
+
+# Maven wrapper files
+mvnw
+mvnw.cmd
+target/
+
+# Spring Boot files
+HELP.md
+
+# Docker files
+# Dockerfile.dev
+# docker-compose.yml
+
+# Logs and other generated files
+*.log
+*.tmp
+
+# macOS specific files
+.DS_Store
